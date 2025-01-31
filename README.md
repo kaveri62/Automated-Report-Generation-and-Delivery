@@ -13,5 +13,5 @@ This script automates the process of generating and sending Excel reports to cli
 - Pandas for data processing  
 - SMTP for email automation
 
-  ## 🔧 Setup & Usage
-  Refer this doc =>  **Applications monitoring automation inside server** 
+## 🔧 Setup & Usage
+- Refer this doc =>  **Applications monitoring automation inside server** 
