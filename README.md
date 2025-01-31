@@ -11,4 +11,7 @@ This script automates the process of generating and sending Excel reports to cli
 ## 🛠️ Tech Stack  
 - Python (or Bash/PowerShell)  
 - Pandas for data processing  
-- SMTP for email automation 
+- SMTP for email automation
+
+  ## 🔧 Setup & Usage
+  Refer this doc =>  **Applications monitoring automation inside server** 
